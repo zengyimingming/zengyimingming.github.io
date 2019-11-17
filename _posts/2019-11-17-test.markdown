@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "常用软件"
+img: 
+date:   2019-11-17 00:00:00 +0200
+description: 软件来自软件安装管家，若有侵权，请联系我删除
+---
+
+##请关注微信公众号软件安装管家，下面的软件均来自于此
+---
+
+[菜鸟教程](https://www.runoob.com)
+
+[01-Office2019](https://pan.baidu.com/s/10Ih_uUDiRmuJDwe4I0HF5w) 提取码: hgmz
+
+[02-Visio2019](https://pan.baidu.com/s/12Zd8zX_hostaz-SHdSZGcw )提取码: gxmx
+
+[03-PDF转换工具](https://pan.baidu.com/s/12Zd8zX_hostaz-SHdSZGcw)提取码:a8fc
+
+[04-3dmax2020](https://pan.baidu.com/s/1MPYeYrbao9h2hGXS7m7zuA)提取码：dddg
+
+[05-centos7](https://pan.baidu.com/s/1HLbQrE5M2UW1S7KFBuFLZQ )提取码: 24d4
+
+[06-vmware15](https://pan.baidu.com/s/16_JlJ31R6wR8ja_f7o9kNw)提取码: 4c94 
+
+
+
+
+
