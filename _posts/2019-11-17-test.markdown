@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "常用软件"
-img: 
+imges: 
 date:   2019-11-17 
 description: 软件来自软件安装管家，若有侵权，请联系我删除
 ---
