@@ -55,3 +55,30 @@ description: 学习笔记
 
 ###  5.书写代码测试
 <img src="/images/xmind/1122_08.png" width="100%"> 
+
+# 配置文件详解
+
+## orm元数据    
+###  根元素
+<img src="/images/xmind/1122_09.png" width="100%"> 
+
+### class元素
+<img src="/images/xmind/1122_10.png" width="100%"> 
+
+### id元素
+<img src="/images/xmind/1122_11.png" width="100%"> 
+
+### property元素
+<img src="/images/xmind/1122_12.png" width="100%"> 
+
+## hibernate主配置
+### 必选属性配置(5个)
+<img src="/images/xmind/1122_13.png" width="100%"> 
+
+### 可选属性配置(3个)
+<img src="/images/xmind/1122_14.png" width="100%"> 
+
+### 元数据引入配置
+<img src="/images/xmind/1122_15.png" width="100%"> 
+
+
