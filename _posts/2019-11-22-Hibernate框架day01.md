@@ -13,7 +13,7 @@ description: 学习笔记
     3.所以框架可以理解成是一个半成品的项目.只要懂得如何驾驭这些功能即可.    
     
 ## hibernate框架是什么
-<img src="http://static.runoob.com/images/runoob-logo.png" width="50%">
+<img src="/images/xmind/hibernate框架.jpg" width="50%">
 
 
 # hibernate的好处   
