@@ -1,16 +1,16 @@
 # Basic
-title: yiming_blog
-subtitle: 个人博客
-description: 欢迎来到我的个人博客~
+title: yimingouba
+subtitle: 个人笔记
+description: 欢迎阅览我的个人笔记
 # 头像里面的标题
-avatarTitle: 曾科
+avatarTitle: 一鸣
 # 头像里面的描述
-avatarDesc: 个人学习
+avatarDesc: 学习分享
 url: "zengyimingming.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: zengyimingming
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
@@ -41,7 +41,7 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/zengyimingming/zengyimingming.github.io
+#  https://github.com/zengyimingming/zengyimingming.github.io 
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
@@ -58,7 +58,7 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: 主页
 
 # Navigation buttons in the front page.s
 nav:
