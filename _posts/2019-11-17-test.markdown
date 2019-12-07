@@ -50,10 +50,8 @@ description: 软件来自软件安装管家，若有侵权，请联系我删除
 |2014年  |P4的发布	|开创了数据平面编程的先河|
 |2015年	 |SD-WAN商用产品的出现	|第过个SDN成熟应用市场出现|
 
-1
+1.流表
   
-| 匹配域 |	优先级 | 计数器 |	指令 |	计时器	| Cookie |
-|-----|-----|-----|-----|-----|-----|
 <table style="border:1px;">
     <tr>
         <td>匹配域</td>
@@ -64,4 +62,28 @@ description: 软件来自软件安装管家，若有侵权，请联系我删除
         <td>Cookie</td>
     </tr>
 </table>
-<center>图2·2流表结构示意图</center>
+<center>图2-2流表结构示意图</center>
+
+2.组表
+
+<table style="border:1px;">
+    <tr>
+        <td>组表号</td>
+        <td>类型</td>
+        <td>计数器</td>
+        <td>动作桶</td>
+    </tr>
+</table>
+<center>图2-3组表结构示意图</center>
+
+3.Meter表
+
+<table style="border:1px;">
+    <tr>
+        <td>计量表号</td>
+        <td>计量</td>
+        <td>计数器</td>
+      
+    </tr>
+</table>
+<center>图2-4Meter表结构示意图</center>
