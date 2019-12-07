@@ -53,4 +53,15 @@ description: 软件来自软件安装管家，若有侵权，请联系我删除
 1
   
 | 匹配域 |	优先级 | 计数器 |	指令 |	计时器	| Cookie |
+|-----|-----|-----|-----|-----|-----|
+<table style="border:1px;">
+    <tr>
+        <td>匹配域</td>
+        <td>优先级</td>
+        <td>计数器</td>
+        <td>指令</td>
+        <td>计时器</td>
+        <td>Cookie</td>
+    </tr>
+</table>
 <center>图2·2流表结构示意图</center>
