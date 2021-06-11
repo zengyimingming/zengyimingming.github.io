@@ -4,3 +4,5 @@ _site/
 .idea
 *.swp
 .Trashes
+/y
+/y.pub

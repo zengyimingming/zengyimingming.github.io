@@ -4,7 +4,7 @@ title:  "SpringBoot项目打包部署在linux上，实现win客户端浏览器�
 imges: 
 date:   2020-07-05 10:04:00 +0800
 description: 
-tags: Java SpringBoot
+tags: java
 ---
 
 
