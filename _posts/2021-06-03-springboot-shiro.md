@@ -297,7 +297,7 @@ server.port=8080
 spring.application.name=springboot-shiro
 spring.datasource.username=
 spring.datasource.password=
-spring.datasource.url=jdbc:mysql://39.105.116.117:3306/kuankuping?useUnicode=true&characterEncoding=utf8&useSSL=false&autoReconnect=true&failOverReadOnly=false&allowMultiQueries=true
+spring.datasource.url=jdbc:mysql://localhost:3306/kuankuping?useUnicode=true&characterEncoding=utf8&useSSL=false&autoReconnect=true&failOverReadOnly=false&allowMultiQueries=true
 spring.datasource.driver-class-name=com.mysql.jdbc.Driver
 
 logging.level.com.zeng.mapper=debug
