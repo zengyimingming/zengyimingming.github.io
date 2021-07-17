@@ -4,7 +4,7 @@ title:  "Java实现将查询结果导出成excel文件"
 imges: 
 date:   2020-11-16 10:02:00 +0800
 description: 
-tags: java SpringBoot
+tags: java SpringBoot excel
 ---
 
 # 将java查询的list集合生成excel文件，前端下载
